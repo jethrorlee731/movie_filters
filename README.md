@@ -13,10 +13,10 @@ script. This should create the “entertainment” schema with all of its proced
 and functions.
 5) Check that one of the latest versions of Python (3.8.9 or newer) is installed on
 your computer.
-a) Run the command “Python” in the terminal to determine if it is installed.
-If it is not installed, install it.
+  - Run the command “Python” in the terminal to determine if it is installed.
+  If it is not installed, install it.
 6) Open PyCharm. This is the IDE that will be used to run the application.
-  a) Link to download PyCharm:
+  - Link to download PyCharm:
   https://www.jetbrains.com/pycharm/download/#section=mac
 7) Create a new project or open an existing project in PyCharm.
 8) In the top toolbar, click “PyCharm”, then “Preferences”. This should open a
