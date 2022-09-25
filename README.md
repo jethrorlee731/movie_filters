@@ -16,8 +16,8 @@ your computer.
 a) Run the command “Python” in the terminal to determine if it is installed.
 If it is not installed, install it.
 6) Open PyCharm. This is the IDE that will be used to run the application.
-a) Link to download PyCharm:
-https://www.jetbrains.com/pycharm/download/#section=mac
+  a) Link to download PyCharm:
+  https://www.jetbrains.com/pycharm/download/#section=mac
 7) Create a new project or open an existing project in PyCharm.
 8) In the top toolbar, click “PyCharm”, then “Preferences”. This should open a
 “Preferences” window.
@@ -26,10 +26,10 @@ Interpreter.”
 10) If not installed already, ensure that the following libraries are installed. Click the
 “+” sign on the window to install the necessary libraries. If these libraries are
 already installed, skip to step 14:
-a) PyMySQL; version 1.0.2; Author: yutaka.matsubara
-b) cryptography; Version 37.0.2; Author: The Python Cryptographic
-Authority and individual contributors
-c) matplotlib; Version 3.5.2; Author: Michael Droettboom
+  a) PyMySQL; version 1.0.2; Author: yutaka.matsubara
+  b) cryptography; Version 37.0.2; Author: The Python Cryptographic
+  Authority and individual contributors
+  c) matplotlib; Version 3.5.2; Author: Michael Droettboom
 11) Exit out of the package installation tab.
 12) Click “OK,” which is located on the blue button in the “Preferences” tab.
 13) Access the terminal by clicking on “Terminal” at the bottom. Type “Python”, “pip
