@@ -26,10 +26,10 @@ Interpreter.”
 10) If not installed already, ensure that the following libraries are installed. Click the
 “+” sign on the window to install the necessary libraries. If these libraries are
 already installed, skip to step 14:
-  a) PyMySQL; version 1.0.2; Author: yutaka.matsubara
-  b) cryptography; Version 37.0.2; Author: The Python Cryptographic
-  Authority and individual contributors
-  c) matplotlib; Version 3.5.2; Author: Michael Droettboom
+  - PyMySQL; version 1.0.2; Author: yutaka.matsubara
+  - cryptography; Version 37.0.2; Author: The Python Cryptographic
+    Authority and individual contributors
+  - matplotlib; Version 3.5.2; Author: Michael Droettboom
 11) Exit out of the package installation tab.
 12) Click “OK,” which is located on the blue button in the “Preferences” tab.
 13) Access the terminal by clicking on “Terminal” at the bottom. Type “Python”, “pip
